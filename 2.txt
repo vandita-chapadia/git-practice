@@ -1,2 +1,3 @@
 second file
+git push -f origin 
 
